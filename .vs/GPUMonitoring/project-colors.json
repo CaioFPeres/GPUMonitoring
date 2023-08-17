@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb72bccf-5f27-48e9-8a81-ee7c8466033a": {
+      "ProjectGuid": "cb72bccf-5f27-48e9-8a81-ee7c8466033a",
+      "DisplayName": "GPUMonitoring",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

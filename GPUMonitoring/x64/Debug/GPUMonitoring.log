@@ -1,0 +1,5 @@
+﻿  GPUMonitoring.cpp
+C:\Users\Caio Peres\source\repos\GPUMonitoring\GPUMonitoring\GPUMonitoring.cpp(83,59): warning C4267: 'argumento': conversão de 'size_t' para 'DWORD', possível perda de dados
+C:\Users\Caio Peres\source\repos\GPUMonitoring\GPUMonitoring\GPUMonitoring.cpp(89,75): warning C4267: 'argumento': conversão de 'size_t' para 'DWORD', possível perda de dados
+C:\Users\Caio Peres\source\repos\GPUMonitoring\GPUMonitoring\GPUMonitoring.cpp(99,73): warning C4267: 'argumento': conversão de 'size_t' para 'DWORD', possível perda de dados
+  GPUMonitoring.vcxproj -> C:\Users\Caio Peres\source\repos\GPUMonitoring\x64\Debug\GPUMonitoring.exe
